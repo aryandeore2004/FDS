@@ -2,7 +2,7 @@
 of second, third and final year of department can be granted membership on request.
 Similarly one may cancel the membership of club. First node is reserved for president of
 club and last node is reserved for secretary of club. Write C++ program to maintain club
-member‘s information using singly linked list. Store student PRN and Name. Write
+member‘s information using singly linked list. Store student PRN and Name. Writ
 functions to:
 a) Add and delete the members as well as president or even secretary.
 b) Compute total number of members of club

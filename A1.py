@@ -5,8 +5,8 @@ a) List of students who play both cricket and badminton
 b) List of students who play either cricket or badminton but not both
 c) Number of students who play neither cricket nor badminton
 d) Number of students who play cricket and football but not badminton.
-(Note- While realizing the group, duplicate entries should be avoided, Do not use SET
-built-in functions) '''
+(Note- While realizing the group, duplica entries should be avoided, Do not use SET
+built-in functions) hiiiiiiii '''
 
 
 groupA,groupB,groupC,a,b,c=[],[],[],[],[],[]
